@@ -1,6 +1,5 @@
-const { Commander, program, Command } = require('commander')
+const { Command } = require.('commander');
 const fs = require('fs');
-const { console } = require('inspector');
 const program = new Command();
 
 program
