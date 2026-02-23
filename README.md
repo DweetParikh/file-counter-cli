@@ -16,3 +16,5 @@ cd file-counter-cli
 npm install
 
 node index.js words <file name>
+
+node index.js lines <file name>
