@@ -1,6 +1,6 @@
-const { Command } = require.('commander');
+const { Command } = require('commander');
 const fs = require('fs');
-const program = new Command();
+const program = new Command;
 
 program
     .name('File related CLI')

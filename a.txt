@@ -1,3 +1,0 @@
-Hello, CLI testing in progress
-hello from second line
-hello form third line
